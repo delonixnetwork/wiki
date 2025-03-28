@@ -87,7 +87,7 @@ colorMode: {
         style: 'dark',
         links: [
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} IP6.lat`,
+        copyright: `Copyright © ${new Date().getFullYear()} Delonix.`,
       },
       prism: {
         theme: prismThemes.github,
