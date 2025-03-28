@@ -27,6 +27,28 @@ const sidebars = {
         type: 'doc',
         id: 'vm/faq',
       },
+      {
+        type: 'doc',
+        id: 'vm/ssh',
+      },
+      {
+        type: 'doc',
+        id: 'vm/fsresize',
+      },
+      {
+        type: 'category',
+        label: 'Туториалы',
+        items: [
+          {
+            type: 'doc',
+            id: 'vm/pterodactyl',
+          },
+          {
+            type: 'doc',
+            id: 'vm/pteronode',
+          },
+        ],
+      },
     ],
   },
   ],
