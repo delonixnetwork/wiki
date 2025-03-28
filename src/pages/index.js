@@ -32,7 +32,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Документация по сервису Delonix ;)">
+      description="Документация по сервису Delonix">
       <HomepageHeader />
     </Layout>
   );
