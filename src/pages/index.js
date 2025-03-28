@@ -32,7 +32,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Расскажем и покажем как что сделать на MWNODES ;)">
+      description="Документация по сервису Delonix ;)">
       <HomepageHeader />
     </Layout>
   );
