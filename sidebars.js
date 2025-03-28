@@ -21,76 +21,15 @@ const sidebars = {
   },
   {
     type: 'category',
-    label: 'Панель',
+    label: 'Виртуальные сервера',
     items: [
       {
         type: 'doc',
-        id: 'panel/login',
+        id: 'vm/faq',
       },
-      {
-        type: 'doc',
-        id: 'panel/topup',
-      },
-      {
-        type: 'doc',
-        id: 'panel/order',
-      },
-      {
-        type: 'category',
-        label: 'Управление услугой',
-        items: [
-          {
-            type: 'doc',
-            id: 'panel/service/info',
-          },
-          {
-            type: 'doc',
-            id: 'panel/service/backups',
-          },
-          {
-            type: 'doc',
-            id: 'panel/service/tariff',
-          },
-          {
-            type: 'doc',
-            id: 'panel/service/subdomains',
-          },
-          {
-            type: 'doc',
-            id: 'panel/service/reinstall',
-          },
-      
     ],
   },
   ],
-},
-{
-  type: 'category',
-  label: 'Туториалы',
-  items: [
-    {
-      type: 'doc',
-      id: 'service-tutorials/ssh',
-    },
-    {
-      type: 'doc',
-      id: 'service-tutorials/rescue',
-    },
-    {
-      type: 'doc',
-      id: 'service-tutorials/fsresize',
-    },
-    {
-      type: 'doc',
-      id: 'service-tutorials/pterodactyl',
-    },
-    {
-      type: 'doc',
-      id: 'service-tutorials/pteronode',
-    },
-  ]
-}
-  ]
 };
 
 export default sidebars;
