@@ -41,11 +41,11 @@ const sidebars = {
         items: [
           {
             type: 'doc',
-            id: 'vm/pterodactyl',
+            id: 'vm/tutorials/pterodactyl',
           },
           {
             type: 'doc',
-            id: 'vm/pteronode',
+            id: 'vm/tutorials/pteronode',
           },
         ],
       },
