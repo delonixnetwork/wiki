@@ -33,6 +33,10 @@ const sidebars = {
       },
       {
         type: 'doc',
+        id: 'vm/warp',
+      },
+      {
+        type: 'doc',
         id: 'vm/fsresize',
       },
       {
