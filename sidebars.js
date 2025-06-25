@@ -21,6 +21,22 @@ const sidebars = {
   },
   {
     type: 'category',
+    label: 'Панельные сервера',
+    items: [
+      {
+        type: 'category',
+        label: 'Привязка домена',
+        items: [
+          {
+            type: 'doc',
+            id: 'pterodactyl/domain/cloudflare',
+          }
+        ]
+      }
+    ]
+  },
+  {
+    type: 'category',
     label: 'Виртуальные сервера',
     items: [
       {
