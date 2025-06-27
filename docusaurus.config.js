@@ -10,10 +10,10 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'База знаний Delonix',
   tagline: 'Документация по сервису Delonix',
-  favicon: 'https://delonix.pro/static/delonix.png',
+  favicon: 'https://delonix.one/static/delonix.png',
 
   // Set the production url of your site here
-  url: 'https://wiki.delonix.pro',
+  url: 'https://wiki.delonix.one',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -62,12 +62,12 @@ colorMode: {
       respectPrefersColorScheme: false, // Использовать системные настройки пользователя
     },
       // Replace with your project's social card
-      image: 'https://delonix.pro/static/delonix.png',
+      image: 'https://delonix.one/static/delonix.png',
       navbar: {
         title: 'База знаний Delonix',
         logo: {
           alt: 'Delonix',
-          src: 'https://delonix.pro/static/delonix.png',
+          src: 'https://delonix.one/static/delonix.png',
         },
         items: [
           {
