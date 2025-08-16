@@ -29,6 +29,10 @@ const sidebars = {
         items: [
           {
             type: 'doc',
+            id: 'pterodactyl/domain/webproxy',
+          },
+          {
+            type: 'doc',
             id: 'pterodactyl/domain/cloudflare',
           }
         ]
